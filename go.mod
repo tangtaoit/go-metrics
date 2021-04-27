@@ -1,4 +1,4 @@
-module github.com/rcrowley/go-metrics
+module github.com/tangtaoit/go-metrics
 
-go 1.14
+go 1.15
 
